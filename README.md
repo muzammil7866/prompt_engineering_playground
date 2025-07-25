@@ -12,6 +12,13 @@ Explore the impact of different prompt types using Gemini Pro and Gradio. This a
 - Gradio
 - dotenv
 
+## Snippets
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/3c8cd973-5a14-4ffe-89b2-082b7b18ed21" />
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/6c070125-06b5-44fa-b1b7-65d6da8fc570" />
+
+
+
+
 ## 🚀 How to Run
 1. Clone the repo
 2. Add your Google API key to `.env`
